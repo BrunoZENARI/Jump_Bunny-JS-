@@ -10,8 +10,8 @@ export default new Phaser.Game({
     physics: {
         default: 'arcade',
         arcade: {
-            garvity: {
-                y: 200
+            gravity: {
+                y: 300
             },
             debug: true
         }
